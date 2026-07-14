@@ -32,7 +32,7 @@ The [discourse graph protocol](/docs/obsidian/fundamentals/what-is-a-discourse-g
 ## Creating relations
 
 ![alt text](../../../public/docs/roam/seinfeld-reservation.png)
-_Now you know how to **build** a knowledge base, you just don't know how to **use** the knowledge base. And that's really the most important part: the using. Anybody can just make them_
+_Now you know how to **make** a knowledge base, you just don't know how to **use** the knowledge base. And that's really the most important part: the using. Anybody can just make them_
 
 ## What else would you like to do?
 
