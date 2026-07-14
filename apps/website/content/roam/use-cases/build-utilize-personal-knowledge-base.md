@@ -15,13 +15,27 @@ Many researchers have established pipeline for accumulating potentially useful e
 ![alt text](../../../public/docs/roam/cable-drawer.png)
 _Potentially useful ..._
 
-The [discourse graph protocol](/docs/obsidian/fundamentals/what-is-a-discourse-graph) can be used to drive more intentional note taking and to accentuate serendipitous discovery within an existing knowledge base.
+The [discourse graph protocol](/docs/obsidian/fundamentals/what-is-a-discourse-graph) can be used to drive more intentional note taking and facilitate serendipitous discovery within an existing knowledge base.
 
 ## Getting started
 
-## Organizing your graph
+If you’re already Roam Research or another PKM platform, your first question might be “Can I integrate discourse graphs into my existing knowledge base?”
 
-## Transforming existing notes into discourse nodes
+The answer is **yes**: your discourse nodes can coexist with your existing graph. The major considerations for a smooth integration are your organizational preferences and the format of your existing notes.
+
+### Roam Research Organizational Patterns
+
+Regular Roam Research users tend to employ some combination of the following usage patterns:
+
+#### The Daily Notes Navigator
+
+#### The Wikilink Rider
+
+#### The Dashboarder
+
+#### The Seeker
+
+### Transforming existing notes into discourse nodes
 
 ### Best practices for node conversion
 
